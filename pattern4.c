@@ -20,7 +20,7 @@ int main()
         {
             space--;
             star += 2;
-           }
+        }
         else
         {
 
