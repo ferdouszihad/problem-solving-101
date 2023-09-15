@@ -1,1 +1,20 @@
-23
+count_Alpha(F M Zsad ,1) work-sttarted
+count_Alpha(F M Zsad ,2) work-sttarted
+count_Alpha(F M Zsad ,3) work-sttarted
+count_Alpha(F M Zsad ,4) work-sttarted
+count_Alpha(F M Zsad ,5) work-sttarted
+count_Alpha(F M Zsad ,6) work-sttarted
+count_Alpha(F M Zsad ,7) work-sttarted
+count_Alpha(F M Zsad ,8) work-sttarted
+count_Alpha(F M Zsad ,9) work-sttarted
+count_Alpha(F M Zsad ,9) = 0 work-Done
+count_Alpha(F M Zsad ,8) = 0 work-Done
+count_Alpha(F M Zsad ,7) = 1 work-Done
+count_Alpha(F M Zsad ,6) = 2 work-Done
+count_Alpha(F M Zsad ,5) = 3 work-Done
+count_Alpha(F M Zsad ,4) = 4 work-Done
+count_Alpha(F M Zsad ,3) = 4 work-Done
+count_Alpha(F M Zsad ,2) = 5 work-Done
+count_Alpha(F M Zsad ,1) = 5 work-Done
+6
+hello
